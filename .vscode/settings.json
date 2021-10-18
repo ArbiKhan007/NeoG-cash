@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.css": "scss"
+  },
+  "editor.fontSize": 18
+}
